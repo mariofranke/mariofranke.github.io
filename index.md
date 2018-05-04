@@ -1,9 +1,7 @@
-## Test
-asdasd
-asd
-asd
-a
-sd
+## Org Mode Mobile Workflow
+
+On my current Workflow i use Resillio-Sync to sync my .org files between my 2 Mac and my Android Smartphone.
+The Smartphone is read-only because i have never succesfully managed to get Orglzy and Resillio-Sync running without Sync Conflicts. I use Orgzly to view my Tasks and an Automate Scripty to send new Tasks to an Email adress and fetchmail on the mac to get them into my main org file. It allows me to never worry about Conflicts and got no problems so far.
 
 
 
