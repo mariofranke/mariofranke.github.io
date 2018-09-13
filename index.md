@@ -1,3 +1,8 @@
+## 13.0.18 Analog Flashcards to Anki Workflow
+
+Android App Simple Scanner -> Resillio Sync -> Python Script -> Anki
+I write Flashcards then make Pictures with my Android Smartphone from the Front and Back with "Simple Scanner". It applies Filters to make the Pictures look more liek a real Scan then Sync the the Pictures with an App called "Resilio Sync" back to my main Maschine. Dropbox or another Service should work too. Finally an Python script takes the Images and build a .csv
+file and copies the images to your Anki Libary. Finally just import it with Anki into any deck and enjoy Handwritten 2 Side Flashcards.
 ## Org Mode Mobile Workflow
 
 On my current Workflow i use Resillio-Sync to sync my .org files between my 2 Mac and my Android Smartphone.
